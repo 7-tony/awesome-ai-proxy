@@ -64,7 +64,7 @@
 
 ## 🌟 APIKEY.FUN — 一个API Key连接全球顶级大模型
 
-[APIKEY.FUN](https://apikey.fun/register?aff=3K5S83NRWDBK) 让国内开发者一个 Key 调用 Claude、GPT、Gemini 等 10+ 模型。
+[APIKEY.FUN](https://www.apikeyfun.com/) 让国内开发者一个 Key 调用 Claude、GPT、Gemini 等 10+ 模型。
 
 - **价格优势**: 比官方便宜 90%+（Claude Opus 4.7 官方¥35 → ¥3.50/M token）
 - **国内直连**: 无需翻墙，无需海外信用卡
@@ -77,9 +77,9 @@
 from openai import OpenAI
 client = OpenAI(
     api_key="your-key",
-    base_url="https://api.apikey.fun/v1"  # 国内直连
+    base_url="https://api.www.apikeyfun.com/v1"  # 国内直连
 )
 ```
 
-> 注册地址: [apikey.fun](https://apikey.fun/register?aff=3K5S83NRWDBK)
+> 注册地址: [www.apikeyfun.com](https://www.apikeyfun.com/)
 > Telegram: @apikeyfunai
