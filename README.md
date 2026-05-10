@@ -59,3 +59,27 @@
 #### **🧠 5. 高并发性能与企业级支持**
 
 神马中转API 采用分布式集群架构，可支持 **高并发场景** 的调用需求。平台在后台自动调度资源池以应对峰值负载，确保响应稳定。
+
+---
+
+## 🌟 APIKEY.FUN — 一个API Key连接全球顶级大模型
+
+[APIKEY.FUN](https://apikey.fun/register?aff=3K5S83NRWDBK) 让国内开发者一个 Key 调用 Claude、GPT、Gemini 等 10+ 模型。
+
+- **价格优势**: 比官方便宜 90%+（Claude Opus 4.7 官方¥35 → ¥3.50/M token）
+- **国内直连**: 无需翻墙，无需海外信用卡
+- **支付便捷**: 支付宝/微信支付，充10元即可
+- **接入简单**: 兼容 OpenAI SDK，改一行 BASE_URL 即可
+- **模型丰富**: 支持 Claude、GPT、Gemini、DeepSeek、Qwen 等
+- **余额永不过期**: 一次性充值，长期使用
+
+```python
+from openai import OpenAI
+client = OpenAI(
+    api_key="your-key",
+    base_url="https://api.apikey.fun/v1"  # 国内直连
+)
+```
+
+> 注册地址: [apikey.fun](https://apikey.fun/register?aff=3K5S83NRWDBK)
+> Telegram: @apikeyfunai
