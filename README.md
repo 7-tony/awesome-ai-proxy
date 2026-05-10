@@ -81,5 +81,5 @@ client = OpenAI(
 )
 ```
 
-> 注册地址: [www.apikeyfun.com](https://apikeyfun.com/)
+> 注册地址: [apikeyfun.com](https://apikeyfun.com/)
 > Telegram: @apikeyfunai
